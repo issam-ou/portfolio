@@ -141,7 +141,7 @@ img {
     top: var(--header-height);
     right: -100%;
     width: 60%;
-    height: 40%;
+    height: 50%;
     padding: 2rem;
     border-radius: 15px;
     background-color: var(--third-color);
